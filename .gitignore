@@ -1,0 +1,10 @@
+# Storage (keep only .gitkeep)
+@core/storage/**/*
+!@core/storage/**/.gitkeep
+
+# Or, more explicit:
+@core/storage/logs/
+@core/storage/debugbar/
+@core/storage/framework/cache/
+@core/storage/framework/sessions/
+@core/storage/framework/views/
