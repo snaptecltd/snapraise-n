@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../assets/frontend/css/bootstrap-grid.css">
     <link rel="stylesheet" href="../assets/frontend/css/font-awesome.min.css">
-    <title>Software Install Wizard By Xgenious</title>
+    <title>Software Install Wizard By Anaptec</title>
     <link rel="preconnect" href="//fonts.gstatic.com">
     <link href="//fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
     <style>
@@ -618,7 +618,7 @@ $folders = [
     <div class="get-support">
         <div class="icon-wrap">
             <ul class="support-list">
-                <li><a href="http://xgenious.com/">Visit Website</a></li>
+                <li><a href="http://snaptec.ltd/">Visit Website</a></li>
                 <li><a href="mailto:contact@xgenoius.com">Contact Support</a></li>
             </ul>
             <i class="fa fa-support"></i>
@@ -629,7 +629,7 @@ $folders = [
             <div class="col-lg-10">
                 <div class="form-outer-wrapper">
                     <div class="brand-logo">
-                        <h2 class="title">XGENIOUS</h2>
+                        <h2 class="title">Snaptec</h2>
                         <p>Software Installation Wizard</p>
                     </div>
                     <form id="msform" action="index.php" method="post">
@@ -855,7 +855,7 @@ $folders = [
         <div class="row">
             <div class="col-lg-12">
                 <div class="copyright-inner">
-                    &copy; 2023 All Right Reserved By <a href="//xgenious.com/">XGENIOUS</a>
+                    &copy; 2023 All Right Reserved By <a href="//snaptec.ltd/">Snaptec</a>
                 </div>
             </div>
         </div>

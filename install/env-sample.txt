@@ -1,4 +1,4 @@
-APP_NAME=Fundorex
+APP_NAME=Snaptec
 APP_ENV=production
 APP_KEY=base64:8e5wSFpua5CzuHhXJEaJHcpRFBR2nqLAV0zTURuXgLA=
 APP_DEBUG=false
@@ -50,12 +50,12 @@ MIX_PUSHER_APP_CLUSTER="${PUSHER_APP_CLUSTER}"
 PAYSTACK_PUBLIC_KEY=pk_test_0a2cea63c4a34691fae697fb8f6b72a856e96e12
 PAYSTACK_SECRET_KEY=sk_test_bfb4d04c41f8bcfa9fb6dac84eeb6ea54e1a93b4
 PAYSTACK_PAYMENT_URL=https://api.paystack.co
-MERCHANT_EMAIL=testxgenious@gmail.com
+MERCHANT_EMAIL=testsnaptec@gmail.com
 
-XGENIOUS_API_URL="https://xgenious.com/api/"
-XGENIOUS_API_KEY="IX7Vmmb91jBSknjqBWeE9g186p9BDe5B"
-XGENIOUS_API_ACTION="license_verify"
-XGENIOUS_API_AUTHOR="xgenious"
+Snaptec_API_URL="https://snaptec.ltd/api/"
+Snaptec_API_KEY="IX7Vmmb91jBSknjqBWeE9g186p9BDe5B"
+Snaptec_API_ACTION="license_verify"
+Snaptec_API_AUTHOR="snaptec"
 
 RSS_FEED_URL="/feeds"
 RSS_FEED_TITLE="My feeds"
@@ -66,7 +66,7 @@ MOLLIE_KEY=test_fVk76gNbAp6ryrtRjfAVvzjxSHxC2v
 
 FLW_PUBLIC_KEY=FLWPUBK_TEST-86cce2ec43c63e09a517290a8347fcab-X
 FLW_SECRET_KEY=FLWSECK_TEST-d37a42d8917db84f1b2f47c125252d0a-X
-FLW_SECRET_HASH=fundorex
+FLW_SECRET_HASH=snaptec
 
 PAYPAL_CLIENT_ID=ATx-SYQyPtXHw1bZaBDhJUZabxbutIqAqqZORgvgEoK_-9MrAkUzYkbt8pSnUyKNEdNN3aJt8tcpcY1I
 PAYPAL_SECRET=ELJCWPUabUnnMamfw5-ZxaUsvir3KAJrPnAcSeS11znsroi45HP0p7y7vGZcYsBsAAi7Ou6kelCpj69K
@@ -122,7 +122,7 @@ MIDTRANS_ENVAIRONTMENT=false
 PF_MERCHANT_ID=10024000
 PF_MERCHANT_KEY=77jcu5v4ufdod
 PAYFAST_PASSPHRASE=testpayfastsohan
-PF_ITN_URL=https://fundorex.test/donation-payfast
+PF_ITN_URL=https://snaptec.test/donation-payfast
 
 CASHFREE_APP_ID=94527832f47d6e74fa6ca5e3c72549
 CASHFREE_SECRET_KEY=ec6a3222018c676e95436b2e26e89c1ec6be2830
