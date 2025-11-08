@@ -871,8 +871,8 @@ class GeneralSettingsController extends Controller
         //Paypal
         $env_val['SITE_GLOBAL_CURRENCY'] = $request->site_global_currency ;
         $env_val['PAYPAL_MODE'] =  !empty($request->paypal_test_mode) ? true : false;
-        $env_val['PAYPAL_SANDBOX_CLIENT_ID'] = $request->paypal_sandbox_client_id ? : 'AUP7AuZMwJbkee-2OmsSZrU-ID1XUJYE-YB-2JOrxeKV-q9ZJZYmsr-UoKuJn4kwyCv5ak26lrZyb-gb';
-        $env_val['PAYPAL_SANDBOX_CLIENT_SECRET'] = $request->paypal_sandbox_client_secret ? : 'EEIxCuVnbgING9EyzcF2q-gpacLneVbngQtJ1mbx-42Lbq-6Uf6PEjgzF7HEayNsI4IFmB9_CZkECc3y';
+        $env_val['PAYPAL_SANDBOX_CLIENT_ID'] = $request->paypal_sandbox_client_id ? : 'YOUR_SECRET_KEY';
+        $env_val['PAYPAL_SANDBOX_CLIENT_SECRET'] = $request->paypal_sandbox_client_secret ? : 'YOUR_SECRET_KEY';
         $env_val['PAYPAL_SANDBOX_APP_ID'] = $request->paypal_sandbox_app_id ? : '456345645645';
         $env_val['PAYPAL_LIVE_CLIENT_ID'] = $request->paypal_live_client_id ? : '';
         $env_val['PAYPAL_LIVE_CLIENT_SECRET'] = $request->paypal_live_client_secret ? : '';
@@ -883,25 +883,25 @@ class GeneralSettingsController extends Controller
         $env_val['PAYPAL_LOCALE'] = 'en_GB';
         $env_val['PAYPAL_VALIDATE_SSL'] = $request->paypal_validate_ssl ? : 'false';
 
-        $env_val['PAYSTACK_PUBLIC_KEY'] = $request->paystack_public_key ?: 'pk_test_081a8fcd9423dede2de7b4c3143375b5e5415290';
-        $env_val['PAYSTACK_SECRET_KEY'] = $request->paystack_secret_key ?: 'sk_test_c874d38f8d08760efc517fc83d8cd574b906374f';
+        $env_val['PAYSTACK_PUBLIC_KEY'] = $request->paystack_public_key ?: 'YOUR_SECRET_KEY';
+        $env_val['PAYSTACK_SECRET_KEY'] = $request->paystack_secret_key ?: 'YOUR_SECRET_KEY';
         $env_val['PAYSTACK_TEST_MODE'] = $request->paystack_test_mode ? true : false;
 
         $env_val['MERCHANT_EMAIL'] = $request->paystack_merchant_email ?: 'example@gmail.com';
-        $env_val['MOLLIE_KEY'] = $request->mollie_public_key ?: 'test_SMWtwR6W48QN2UwFQBUqRDKWhaQEvw';
+        $env_val['MOLLIE_KEY'] = $request->mollie_public_key ?: 'YOUR_SECRET_KEY';
         $env_val['MOLLIE_TEST_MODE'] = $request->mollie_test_mode ? true : false;
 
-        $env_val['FLW_PUBLIC_KEY'] = $request->flw_public_key ?: 'FLWPUBK_TEST-86cce2ec43c63e09a517290a8347fcab-X';
-        $env_val['FLW_SECRET_KEY'] = $request->flw_secret_key ?: 'FLWSECK_TEST-d37a42d8917db84f1b2f47c125252d0a-X';
+        $env_val['FLW_PUBLIC_KEY'] = $request->flw_public_key ?: 'FLWPUBK_TEST-YOUR_SECRET_KEY-X';
+        $env_val['FLW_SECRET_KEY'] = $request->flw_secret_key ?: 'FLWSECK_TEST-YOUR_SECRET_KEY-X';
         $env_val['FLW_SECRET_HASH'] = $request->flw_secret_hash ?: 'snaptec';
         $env_val['FLW_TEST_MODE'] = $request->flutterwave_test_mode ? true: false;
 
-        $env_val['RAZORPAY_API_KEY'] = $request->razorpay_api_key ? : 'rzp_test_SXk7LZqsBPpAkj';
-        $env_val['RAZORPAY_API_SECRET'] = $request->razorpay_api_secret ? : 'Nenvq0aYArtYBDOGgmMH7JNv';
+        $env_val['RAZORPAY_API_KEY'] = $request->razorpay_api_key ? : 'YOUR_SECRET_KEY';
+        $env_val['RAZORPAY_API_SECRET'] = $request->razorpay_api_secret ? : 'YOUR_SECRET_KEY';
         $env_val['RAZORPAY_TESTMODE'] = $request->razorpay_test_mode ? true : false;
 
-        $env_val['STRIPE_PUBLIC_KEY'] = $request->stripe_public_key ? : 'pk_test_51GwS1SEmGOuJLTMsIeYKFtfAT3o3Fc6IOC7wyFmmxA2FIFQ3ZigJ2z1s4ZOweKQKlhaQr1blTH9y6HR2PMjtq1Rx00vqE8LO0x';
-        $env_val['STRIPE_SECRET_KEY'] = $request->stripe_secret_key ? : 'sk_test_51GwS1SEmGOuJLTMs2vhSliTwAGkOt4fKJMBrxzTXeCJoLrRu8HFf4I0C5QuyE3l3bQHBJm3c0qFmeVjd0V9nFb6Z00VrWDJ9Uw';
+        $env_val['STRIPE_PUBLIC_KEY'] = $request->stripe_public_key ? : 'YOUR_SECRET_KEY';
+        $env_val['STRIPE_SECRET_KEY'] = $request->stripe_secret_key ? : 'YOUR_SECRET_KEY';
         $env_val['STRIPE_TEST_MODE'] = $request->stripe_test_mode ? true : false;
 
         $env_val['PAYTM_MERCHANT_ID'] = $request->paytm_merchant_mid ?: 'Digita57697814558795';
@@ -946,20 +946,20 @@ class GeneralSettingsController extends Controller
         $env_val['CASHFREE_SECRET_KEY'] =  $request->cashfree_secret_key ? : 'ec6a3222018c676e95436b2e26e89c1ec6be2830';
 
         $env_val['INSTAMOJO_CLIENT_ID'] = $request->instamojo_client_id ? : 'test_nhpJ3RvWObd3uryoIYF0gjKby5NB5xu6S9Z';
-        $env_val['INSTAMOJO_CLIENT_SECRET'] =  $request->instamojo_client_secret ? : 'test_iZusG4P35maQVPTfqutbCc6UEbba3iesbCbrYM7zOtDaJUdbPz76QOnBcDgblC53YBEgsymqn2sx3NVEPbl3b5coA3uLqV1ikxKquOeXSWr8Ruy7eaKUMX1yBbm';
+        $env_val['INSTAMOJO_CLIENT_SECRET'] =  $request->instamojo_client_secret ? : 'YOUR_SECRET_KEY';
         $env_val['INSTAMOJO_USERNAME'] =  $request->instamojo_username ? : '';
         $env_val['INSTAMOJO_PASSWORD'] =  $request->instamojo_password ? : '';
         $env_val['INSTAMOJO_TEST_MODE'] =  $request->instamojo_test_mode ? true : false;
 
-        $env_val['MERCADO_PAGO_CLIENT_ID'] = $request->marcado_pago_client_id ? : 'TEST-0a3cc78a-57bf-4556-9dbe-2afa06347769';
-        $env_val['MERCADO_PAGO_CLIENT_SECRET'] = $request->marcado_pago_client_secret ? : 'TEST-4644184554273630-070813-7d817e2ca1576e75884001d0755f8a7a-786499991';
+        $env_val['MERCADO_PAGO_CLIENT_ID'] = $request->marcado_pago_client_id ? : 'TEST-0a3cc78a-YOUR_SECRET_KEY-4556-9dbe-2afa06347769';
+        $env_val['MERCADO_PAGO_CLIENT_SECRET'] = $request->marcado_pago_client_secret ? : 'TEST-YOUR_SECRET_KEY-070813-7d817e2ca1576e75884001d0755f8a7a-786499991';
         $env_val['MERCADO_PAGO_TEST_MODE'] = $request->marcadopago_test_mode ? true : false;
 
         $env_val['SQUAREUP_ACCESS_TOKEN'] = $request->squareup_access_token ;
         $env_val['SQUAREUP_LOCATION_ID'] = $request->squareup_location_id;
         $env_val['SQUAREUP_ACCESS_TEST_MODE'] = $request->squareup_test_mode ? true : false;
 
-        $env_val['CINETPAY_API_KEY'] = $request->cinetpay_api_key ??  '12912847765bc0db748fdd44.40081707';
+        $env_val['CINETPAY_API_KEY'] = $request->cinetpay_api_key ??  'YOUR_SECRET_KEY.40081707';
         $env_val['CINETPAY_SITE_ID'] = $request->cinetpay_site_id ?? '445160';
         $env_val['CINETPAY_TEST_MODE'] = $request->cinetpay_test_mode ? true : false;
 

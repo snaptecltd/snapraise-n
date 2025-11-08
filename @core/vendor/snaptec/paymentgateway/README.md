@@ -219,8 +219,8 @@ return $response;
 
 ```php
 $paypal = XgPaymentGateway::paypal();
-$paypal->setClientId('AUP7AuZMwJbkee-2OmsSZrU-ID1XUJYE-YB-2JOrxeKV-q9ZJZYmsr-UoKuJn4kwyCv5ak26lrZyb-gb');
-$paypal->setClientSecret('EEIxCuVnbgING9EyzcF2q-gpacLneVbngQtJ1mbx-42Lbq-6Uf6PEjgzF7HEayNsI4IFmB9_CZkECc3y');
+$paypal->setClientId('YOUR_SECRET_KEY');
+$paypal->setClientSecret('YOUR_SECRET_KEY-gpacLneVbngQtJ1mbx-42Lbq-6Uf6PEjgzF7HEayNsI4IFmB9_CZkECc3y');
 $paypal->setEnv(true); //env must set as boolean, string will not work
 $paypal->setAppId('641651651958');
 dd($paypal->ipn_response());
