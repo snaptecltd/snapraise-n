@@ -32,13 +32,13 @@
         <i class="fas fa-angle-up"></i>
     </span>
 </div>
-<?php if(preg_match('/(xgenious)/',url('/'))): ?>
+<?php if(preg_match('/(snaptec)/',url('/'))): ?>
 <script type="text/javascript"> adroll_adv_id = "GXM5SRU2XZE7JOKGHSZPSZ"; adroll_pix_id = "WP43YTLBS5BQXDP6XUEIC7"; adroll_version = "2.0";  (function(w, d, e, o, a) { w.__adroll_loaded = true; w.adroll = w.adroll || []; w.adroll.f = [ 'setProperties', 'identify', 'track' ]; var roundtripUrl = "https://s.adroll.com/j/" + adroll_adv_id + "/roundtrip.js"; for (a = 0; a < w.adroll.f.length; a++) { w.adroll[w.adroll.f[a]] = w.adroll[w.adroll.f[a]] || (function(n) { return function() { w.adroll.push([ n, arguments ]) } })(w.adroll.f[a]) }  e = d.createElement('script'); o = d.getElementsByTagName('script')[0]; e.async = 1; e.src = roundtripUrl; o.parentNode.insertBefore(e, o); })(window, document); adroll.track("pageView"); </script>
     <div class="buy-now-wrap">
         <ul class="buy-list">
-            <li><a target="_blank" href="https://xgenious.com/docs/fundorex/" data-container="body" data-toggle="popover" data-placement="left" data-content="<?php echo e(__('Documentation')); ?>"><i class="far fa-file-alt"></i></a></li>
-            <li><a target="_blank" href="https://codecanyon.net/item/fundorex-crowdfunding-platform/33286096"><i class="fas fa-shopping-cart"></i></a></li>
-            <li><a target="_blank" href="https://xgenious51.freshdesk.com/"><i class="fas fa-headset"></i></a></li>
+            <li><a target="_blank" href="https://snaptec.ltd/docs/snaptec/" data-container="body" data-toggle="popover" data-placement="left" data-content="<?php echo e(__('Documentation')); ?>"><i class="far fa-file-alt"></i></a></li>
+            <li><a target="_blank" href="https://codecanyon.net/item/snaptec-crowdfunding-platform/33286096"><i class="fas fa-shopping-cart"></i></a></li>
+            <li><a target="_blank" href="https://snaptec51.freshdesk.com/"><i class="fas fa-headset"></i></a></li>
         </ul>
     </div>
 <?php endif; ?>
@@ -63,11 +63,11 @@
 <script src="<?php echo e(asset('assets/frontend/js/main2.js')); ?>"></script>
 
 <script type="text/javascript">
-    var Xgenious_API = Xgenious_API || {}, Xgenious_LoadStart = new Date();
+    var Snaptec_API = Snaptec_API || {}, Snaptec_LoadStart = new Date();
     (function () {
         var s2 = document.createElement("script"), fs = document.getElementsByTagName("script")[0];
         s2.async = true;
-        s2.src = "https://embed.xgenious.com/5e0b3e167e39ea1242a27b69.js";
+        s2.src = "https://embed.snaptec.com/5e0b3e167e39ea1242a27b69.js";
         s2.charset = 'UTF-8';
         s2.setAttribute('crossorigin', '*');
         fs.parentNode.insertBefore(s2, fs);
@@ -103,4 +103,4 @@
 
 </body>
 </html>
-<?php /**PATH /Users/xgenious/Desktop/xgenious/localhost/fundorex-last-server-file-with-api/@core/resources/views/frontend/partials/footer.blade.php ENDPATH**/ ?>
+<?php /**PATH /Users/snaptec/Desktop/snaptec/localhost/snaptec-last-server-file-with-api/@core/resources/views/frontend/partials/footer.blade.php ENDPATH**/ ?>

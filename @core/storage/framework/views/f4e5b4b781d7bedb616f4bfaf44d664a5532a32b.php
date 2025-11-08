@@ -665,4 +665,4 @@ style="background-image: url(<?php echo e(asset('assets/frontend/img/shape/02.pn
         </div>
     </div>
 </section>
-<?php endif; ?><?php /**PATH /Users/xgenious/Desktop/xgenious/localhost/fundorex-with-api/@core/resources/views/frontend/home-pages/home-02.blade.php ENDPATH**/ ?>
+<?php endif; ?><?php /**PATH /Users/snaptec/Desktop/snaptec/localhost/snaptec-with-api/@core/resources/views/frontend/home-pages/home-02.blade.php ENDPATH**/ ?>

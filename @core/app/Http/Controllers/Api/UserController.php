@@ -92,7 +92,7 @@ class UserController extends Controller
         //todo check user exists or not
         $userInfo =  User::where('email' , $request->email)->orWhere('username' , $request->username)->first();
         if(!is_null($userInfo)){
-             $token = $userInfo->createToken(Str::slug(get_static_option('site_title', 'fundorex')) . 'api_keys')->plainTextToken;
+             $token = $userInfo->createToken(Str::slug(get_static_option('site_title', 'snaptec')) . 'api_keys')->plainTextToken;
                 return response()->json([
                     'users' => $userInfo,
                     'token' => $token,
@@ -108,7 +108,7 @@ class UserController extends Controller
             ]);
 
             if (!is_null($user)) {
-                $token = $user->createToken(Str::slug(get_static_option('site_title', 'fundorex')) . 'api_keys')->plainTextToken;
+                $token = $user->createToken(Str::slug(get_static_option('site_title', 'snaptec')) . 'api_keys')->plainTextToken;
                 return response()->json([
                     'users' => $user,
                     'token' => $token,

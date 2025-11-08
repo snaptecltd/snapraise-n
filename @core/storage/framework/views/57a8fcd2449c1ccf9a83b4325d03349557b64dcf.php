@@ -41,7 +41,7 @@
                             <button id="form_submit" type="submit"><?php echo e(__('Login')); ?> <i class="ti-arrow-right"></i></button>
                         </div>
                     </div>
-                    <?php if(preg_match('/(xgenious)/',url('/'))): ?>
+                    <?php if(preg_match('/(snaptec)/',url('/'))): ?>
                     <table class="table table-default">
                         <th><?php echo e(__('Username')); ?></th>
                         <th><?php echo e(__('Password')); ?></th>
@@ -108,4 +108,4 @@
     </script>
 <?php $__env->stopSection(); ?>
 
-<?php echo $__env->make('layouts.login-screens', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /Users/xgenious/Desktop/xgenious/localhost/fundorex-with-api/@core/resources/views/auth/admin/login.blade.php ENDPATH**/ ?>
+<?php echo $__env->make('layouts.login-screens', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /Users/snaptec/Desktop/snaptec/localhost/snaptec-with-api/@core/resources/views/auth/admin/login.blade.php ENDPATH**/ ?>

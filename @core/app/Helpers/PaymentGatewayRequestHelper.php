@@ -2,7 +2,7 @@
 
 namespace App\Helpers;
 
-use Xgenious\Paymentgateway\Facades\XgPaymentGateway;
+use Snaptec\Paymentgateway\Facades\XgPaymentGateway;
 
 class PaymentGatewayRequestHelper
 {

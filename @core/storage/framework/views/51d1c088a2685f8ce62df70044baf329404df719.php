@@ -29,4 +29,4 @@ $(function(){
     <?php endif; ?>
 });
 </script>
-<?php /**PATH /home/xgenxchi/fundorex.xgenious.com/@core/resources/views/components/sweet-alert-msg.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/xgenxchi/snaptec.snaptec.com/@core/resources/views/components/sweet-alert-msg.blade.php ENDPATH**/ ?>

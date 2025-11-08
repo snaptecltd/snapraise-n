@@ -39,4 +39,4 @@
             </div>
         </form>
     </div>
-</div><?php /**PATH /home/xgenxchi/public_html/laravel/fundorex/@core/resources/views/frontend/partials/ajax-user-login-markup.blade.php ENDPATH**/ ?>
+</div><?php /**PATH /home/xgenxchi/public_html/laravel/snaptec/@core/resources/views/frontend/partials/ajax-user-login-markup.blade.php ENDPATH**/ ?>

@@ -22,4 +22,4 @@
     });
             
     })(jQuery);        
-</script><?php /**PATH /home/xgenxchi/fundorex.xgenious.com/@core/resources/views/components/summernote/js.blade.php ENDPATH**/ ?>
+</script><?php /**PATH /home/xgenxchi/snaptec.snaptec.com/@core/resources/views/components/summernote/js.blade.php ENDPATH**/ ?>

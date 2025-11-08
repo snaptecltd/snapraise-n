@@ -5,4 +5,4 @@
         <option <?php if($value === 'publish'): ?> selected <?php endif; ?> value="publish"><?php echo e(__('Publish')); ?></option>
         <option <?php if($value === 'draft'): ?> selected <?php endif; ?> value="draft"><?php echo e(__('Draft')); ?></option>
     </select>
-</div><?php /**PATH /Users/xgenious/Desktop/xgenious/localhost/fundorex-last-server-file-with-api/@core/resources/views/components/fields/status.blade.php ENDPATH**/ ?>
+</div><?php /**PATH /Users/snaptec/Desktop/snaptec/localhost/snaptec-last-server-file-with-api/@core/resources/views/components/fields/status.blade.php ENDPATH**/ ?>

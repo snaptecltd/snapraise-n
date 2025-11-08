@@ -24,7 +24,7 @@
                                         <label for="site_global_currency">{{__('Site Global Currency')}}</label>
                                         <select name="site_global_currency" class="form-control"
                                                 id="site_global_currency">
-                                            @foreach(\Xgenious\Paymentgateway\Facades\XgPaymentGateway::script_currency_list() as $cur => $symbol)
+                                            @foreach(\Snaptec\Paymentgateway\Facades\XgPaymentGateway::script_currency_list() as $cur => $symbol)
                                                 <option value="{{$cur}}" @if(get_static_option('site_global_currency') == $cur) selected @endif>{{$cur.' ( '.$symbol.' )'}}</option>
                                             @endforeach
                                         </select>

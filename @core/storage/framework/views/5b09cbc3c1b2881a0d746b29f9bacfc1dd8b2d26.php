@@ -90,4 +90,4 @@
 
 
     }(jQuery));
-</script><?php /**PATH /home/xgenxchi/fundorex.xgenious.com/@core/resources/views/frontend/partials/inline-script.blade.php ENDPATH**/ ?>
+</script><?php /**PATH /home/xgenxchi/snaptec.snaptec.com/@core/resources/views/frontend/partials/inline-script.blade.php ENDPATH**/ ?>

@@ -233,4 +233,4 @@
         }
     })(jQuery);
 </script>
-<?php /**PATH /home/xgenxchi/fundorex.xgenious.com/@core/resources/views/components/media/js.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/xgenxchi/snaptec.snaptec.com/@core/resources/views/components/media/js.blade.php ENDPATH**/ ?>

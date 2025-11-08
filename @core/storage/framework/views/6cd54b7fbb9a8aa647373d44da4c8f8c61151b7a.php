@@ -1400,4 +1400,4 @@
             </div>
         </div>
     </div>
-</div><?php /**PATH /home/xgenxchi/public_html/laravel/fundorex/@core/resources/views/backend/general-settings/gateway-portion/credentials.blade.php ENDPATH**/ ?>
+</div><?php /**PATH /home/xgenxchi/public_html/laravel/snaptec/@core/resources/views/backend/general-settings/gateway-portion/credentials.blade.php ENDPATH**/ ?>

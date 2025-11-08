@@ -5,4 +5,4 @@
         <option <?php if($value === 'everyone'): ?> selected <?php endif; ?> value="everyone"><?php echo e(__('Everyone')); ?></option>
         <option <?php if($value === 'user'): ?> selected <?php endif; ?> value="user"><?php echo e(__('User')); ?></option>
     </select>
-</div><?php /**PATH /home/xgenxchi/fundorex.xgenious.com/@core/resources/views/components/fields/page-show-type.blade.php ENDPATH**/ ?>
+</div><?php /**PATH /home/xgenxchi/snaptec.snaptec.com/@core/resources/views/components/fields/page-show-type.blade.php ENDPATH**/ ?>

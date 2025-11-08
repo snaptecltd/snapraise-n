@@ -13,4 +13,4 @@
         display: inline-block;
     }
     table.dataTable {width: 100% !important;}
-</style><?php /**PATH /home/xgenxchi/fundorex.xgenious.com/@core/resources/views/backend/partials/datatable/style-enqueue.blade.php ENDPATH**/ ?>
+</style><?php /**PATH /home/xgenxchi/snaptec.snaptec.com/@core/resources/views/backend/partials/datatable/style-enqueue.blade.php ENDPATH**/ ?>

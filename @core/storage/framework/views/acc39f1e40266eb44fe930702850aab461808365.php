@@ -141,4 +141,4 @@
             </div>
         </div>
     </body>
-</html><?php /**PATH /home/xgenxchi/public_html/laravel/fundorex/@core/resources/views/errors/404.blade.php ENDPATH**/ ?>
+</html><?php /**PATH /home/xgenxchi/public_html/laravel/snaptec/@core/resources/views/errors/404.blade.php ENDPATH**/ ?>

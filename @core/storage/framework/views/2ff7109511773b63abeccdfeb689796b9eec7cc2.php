@@ -23,4 +23,4 @@
             <h4 class="title"><a href="<?php echo e(route('frontend.blog.single',$slug)); ?>"><?php echo e($title); ?></a></h4>
         </div>
     </div>
-</div><?php /**PATH /Users/xgenious/Desktop/xgenious/localhost/fundorex-with-api/@core/resources/views/components/frontend/blog/grid01.blade.php ENDPATH**/ ?>
+</div><?php /**PATH /Users/snaptec/Desktop/snaptec/localhost/snaptec-with-api/@core/resources/views/components/frontend/blog/grid01.blade.php ENDPATH**/ ?>

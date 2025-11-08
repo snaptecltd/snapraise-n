@@ -6,4 +6,4 @@
 <br>
 <button type="submit" class="swal_form_submit_btn d-none"></button>
  </form>
-<?php /**PATH /home/xgenxchi/public_html/laravel/fundorex/@core/resources/views/components/delete-popover.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/xgenxchi/public_html/laravel/snaptec/@core/resources/views/components/delete-popover.blade.php ENDPATH**/ ?>

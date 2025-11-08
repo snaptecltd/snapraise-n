@@ -211,4 +211,4 @@
 </div>
 </body>
 </html>
-<?php /**PATH /home/xgenxchi/public_html/laravel/fundorex/@core/resources/views/frontend/events/invoice/event-attendance.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/xgenxchi/public_html/laravel/snaptec/@core/resources/views/frontend/events/invoice/event-attendance.blade.php ENDPATH**/ ?>

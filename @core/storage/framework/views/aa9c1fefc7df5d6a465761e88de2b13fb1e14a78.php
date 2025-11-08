@@ -43,4 +43,4 @@
         });
 
     })(jQuery)
-</script><?php /**PATH /home/xgenxchi/fundorex.xgenious.com/@core/resources/views/frontend/partials/ajax-login-js.blade.php ENDPATH**/ ?>
+</script><?php /**PATH /home/xgenxchi/snaptec.snaptec.com/@core/resources/views/frontend/partials/ajax-login-js.blade.php ENDPATH**/ ?>

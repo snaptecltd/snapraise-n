@@ -11,4 +11,4 @@
             s0.parentNode.insertBefore(s1, s0);
         })();
     </script>
-<?php endif; ?><?php /**PATH /Users/xgenious/Desktop/xgenious/localhost/fundorex-last-server-file-with-api/@core/resources/views/frontend/partials/twakto.blade.php ENDPATH**/ ?>
+<?php endif; ?><?php /**PATH /Users/snaptec/Desktop/snaptec/localhost/snaptec-last-server-file-with-api/@core/resources/views/frontend/partials/twakto.blade.php ENDPATH**/ ?>

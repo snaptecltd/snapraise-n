@@ -14,4 +14,4 @@
     table.dataTable{
         width: 100% !important;
     }
-</style><?php /**PATH /home/xgenxchi/public_html/laravel/fundorex/@core/resources/views/components/datatable/css.blade.php ENDPATH**/ ?>
+</style><?php /**PATH /home/xgenxchi/public_html/laravel/snaptec/@core/resources/views/components/datatable/css.blade.php ENDPATH**/ ?>

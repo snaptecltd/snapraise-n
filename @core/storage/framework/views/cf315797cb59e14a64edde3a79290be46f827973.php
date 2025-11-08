@@ -502,4 +502,4 @@
     </div>
 </section>
 <?php endif; ?>
-<?php /**PATH /home/xgenxchi/public_html/laravel/fundorex/@core/resources/views/frontend/home-pages/home-01.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/xgenxchi/public_html/laravel/snaptec/@core/resources/views/frontend/home-pages/home-01.blade.php ENDPATH**/ ?>

@@ -15,4 +15,4 @@
     </li>
 <?php else: ?>
     <li class="volunteer"><a href="<?php echo e(route('user.login')); ?>"><?php echo e(__('Login')); ?></a> <span>/</span> <a href="<?php echo e(route('user.register')); ?>"><?php echo e(__('Register')); ?></a></li>
-<?php endif; ?><?php /**PATH /home/xgenxchi/fundorex.xgenious.com/@core/resources/views/components/front-user-login-li.blade.php ENDPATH**/ ?>
+<?php endif; ?><?php /**PATH /home/xgenxchi/snaptec.snaptec.com/@core/resources/views/components/front-user-login-li.blade.php ENDPATH**/ ?>

@@ -4,4 +4,4 @@
 
     </div>
 <?php endif; ?>
-<?php /**PATH /Users/xgenious/Desktop/xgenious/localhost/fundoex-last-file/@core/resources/views/components/msg/success.blade.php ENDPATH**/ ?>
+<?php /**PATH /Users/snaptec/Desktop/snaptec/localhost/fundoex-last-file/@core/resources/views/components/msg/success.blade.php ENDPATH**/ ?>

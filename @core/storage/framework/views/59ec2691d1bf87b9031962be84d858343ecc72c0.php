@@ -520,4 +520,4 @@
     </div>
 </section>
 <?php endif; ?>
-<?php /**PATH /home/xgenxchi/fundorex.xgenious.com/@core/resources/views/frontend/home-pages/home-01.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/xgenxchi/snaptec.snaptec.com/@core/resources/views/frontend/home-pages/home-01.blade.php ENDPATH**/ ?>

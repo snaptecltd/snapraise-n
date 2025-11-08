@@ -43,4 +43,4 @@
         });
 
     })(jQuery)
-</script><?php /**PATH /home/xgenxchi/public_html/laravel/fundorex/@core/resources/views/frontend/partials/ajax-login-js.blade.php ENDPATH**/ ?>
+</script><?php /**PATH /home/xgenxchi/public_html/laravel/snaptec/@core/resources/views/frontend/partials/ajax-login-js.blade.php ENDPATH**/ ?>

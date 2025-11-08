@@ -233,4 +233,4 @@
         }
     })(jQuery);
 </script>
-<?php /**PATH /home/xgenxchi/public_html/laravel/fundorex/@core/resources/views/components/media/js.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/xgenxchi/public_html/laravel/snaptec/@core/resources/views/components/media/js.blade.php ENDPATH**/ ?>

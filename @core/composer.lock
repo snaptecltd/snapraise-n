@@ -10035,7 +10035,7 @@
             "time": "2022-06-03T18:03:27+00:00"
         },
         {
-            "name": "xgenious/paymentgateway",
+            "name": "snaptec/paymentgateway",
             "version": "v3.0.17",
             "source": {
                 "type": "git",
@@ -10076,18 +10076,18 @@
             "extra": {
                 "laravel": {
                     "providers": [
-                        "Xgenious\\Paymentgateway\\Providers\\PaymentgatewayServiceProvider"
+                        "Snaptec\\Paymentgateway\\Providers\\PaymentgatewayServiceProvider"
                     ]
                 }
             },
             "autoload": {
                 "psr-4": {
-                    "Xgenious\\Paymentgateway\\": "src/"
+                    "Snaptec\\Paymentgateway\\": "src/"
                 }
             },
             "autoload-dev": {
                 "psr-4": {
-                    "Xgenious\\Paymentgateway\\Tests\\": "tests/"
+                    "Snaptec\\Paymentgateway\\Tests\\": "tests/"
                 }
             },
             "scripts": {
@@ -10111,7 +10111,7 @@
             "homepage": "https://github.com/Sharifur/paymentgateway",
             "keywords": [
                 "Laravel",
-                "xgenious"
+                "snaptec"
             ],
             "support": {
                 "source": "https://github.com/Sharifur/paymentgateway/tree/v3.0.17",
@@ -10120,16 +10120,16 @@
             "time": "2023-04-04T17:43:10+00:00"
         },
         {
-            "name": "xgenious/xgapiclient",
+            "name": "snaptec/xgapiclient",
             "version": "v1.0.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/xgenious-official/license-api-client.git",
+                "url": "https://github.com/snaptec-official/license-api-client.git",
                 "reference": "2302e87b4cbb4c089e1bf876a9430dc6c4c61ed2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/xgenious-official/license-api-client/zipball/2302e87b4cbb4c089e1bf876a9430dc6c4c61ed2",
+                "url": "https://api.github.com/repos/snaptec-official/license-api-client/zipball/2302e87b4cbb4c089e1bf876a9430dc6c4c61ed2",
                 "reference": "2302e87b4cbb4c089e1bf876a9430dc6c4c61ed2",
                 "shasum": ""
             },
@@ -10155,10 +10155,10 @@
             "extra": {
                 "laravel": {
                     "providers": [
-                        "Xgenious\\XgApiClient\\XgApiClientServiceProvider"
+                        "Snaptec\\XgApiClient\\XgApiClientServiceProvider"
                     ],
                     "aliases": {
-                        "XgApiClient": "Xgenious\\XgApiClient\\Facades\\XgApiClient"
+                        "XgApiClient": "Snaptec\\XgApiClient\\Facades\\XgApiClient"
                     }
                 }
             },
@@ -10167,8 +10167,8 @@
                     "Helpers/helpers.php"
                 ],
                 "psr-4": {
-                    "Xgenious\\XgApiClient\\": "src",
-                    "Xgenious\\XgApiClient\\Database\\Factories\\": "database/factories"
+                    "Snaptec\\XgApiClient\\": "src",
+                    "Snaptec\\XgApiClient\\Database\\Factories\\": "database/factories"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -10178,20 +10178,20 @@
             "authors": [
                 {
                     "name": "Md. Abdur Rahman",
-                    "email": "contact@xgenious.com",
+                    "email": "contact@snaptec.com",
                     "role": "Developer"
                 }
             ],
-            "description": "this package is for manage license management system for xgenious interls",
-            "homepage": "https://github.com/xgenious/xgapiclient",
+            "description": "this package is for manage license management system for snaptec interls",
+            "homepage": "https://github.com/snaptec/xgapiclient",
             "keywords": [
                 "laravel",
                 "xgapiclient",
-                "xgenious"
+                "snaptec"
             ],
             "support": {
-                "issues": "https://github.com/xgenious-official/license-api-client/issues",
-                "source": "https://github.com/xgenious-official/license-api-client/tree/v1.0.1"
+                "issues": "https://github.com/snaptec-official/license-api-client/issues",
+                "source": "https://github.com/snaptec-official/license-api-client/tree/v1.0.1"
             },
             "time": "2023-04-10T23:35:47+00:00"
         },

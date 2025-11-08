@@ -29,4 +29,4 @@
             <a href="<?php echo e(route('frontend.donations.single',$slug)); ?>" class="boxed-btn"><?php echo e($buttontext); ?></a>
         </div>
     </div>
-</div><?php /**PATH /Users/xgenious/Desktop/xgenious/localhost/fundorex-with-api/@core/resources/views/components/frontend/donation/user-donation.blade.php ENDPATH**/ ?>
+</div><?php /**PATH /Users/snaptec/Desktop/snaptec/localhost/snaptec-with-api/@core/resources/views/components/frontend/donation/user-donation.blade.php ENDPATH**/ ?>

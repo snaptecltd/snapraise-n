@@ -28,4 +28,4 @@
             <a href="<?php echo e(route('frontend.blog.single',$slug)); ?>" class="boxed-btn reverse-color"><?php echo e(get_static_option('blog_page_read_more_btn_text')); ?></a>
         </div>
     </div>
-</div><?php /**PATH /home/xgenxchi/fundorex.xgenious.com/@core/resources/views/components/frontend/blog/list01.blade.php ENDPATH**/ ?>
+</div><?php /**PATH /home/xgenxchi/snaptec.snaptec.com/@core/resources/views/components/frontend/blog/list01.blade.php ENDPATH**/ ?>

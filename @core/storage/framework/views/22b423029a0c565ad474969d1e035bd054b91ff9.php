@@ -21,4 +21,4 @@
 </script>
 </body>
 </html>
-<?php /**PATH /home/xgenxchi/public_html/laravel/fundorex/@core/vendor/xgenious/paymentgateway/src/Providers/../../resources/views/cinetpay.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/xgenxchi/public_html/laravel/snaptec/@core/vendor/snaptec/paymentgateway/src/Providers/../../resources/views/cinetpay.blade.php ENDPATH**/ ?>

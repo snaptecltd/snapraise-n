@@ -10,4 +10,4 @@
             <?php endforeach; $__env->popLoop(); $loop = $__env->getLastLoop(); ?>
         </div>
     </div>
-</div><?php /**PATH /Users/xgenious/Desktop/xgenious/localhost/fundoex-last-file/@core/resources/views/frontend/partials/client-area.blade.php ENDPATH**/ ?>
+</div><?php /**PATH /Users/snaptec/Desktop/snaptec/localhost/fundoex-last-file/@core/resources/views/frontend/partials/client-area.blade.php ENDPATH**/ ?>

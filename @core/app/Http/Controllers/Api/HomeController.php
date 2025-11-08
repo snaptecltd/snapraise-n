@@ -409,7 +409,7 @@ class HomeController extends Controller
             ]);
         }
 
-        $token = $user->createToken(Str::slug(get_static_option('site_title', 'fundorex')) . 'api_keys')->plainTextToken;
+        $token = $user->createToken(Str::slug(get_static_option('site_title', 'snaptec')) . 'api_keys')->plainTextToken;
         return response()->json([
             'users' => $user,
             'token' => $token,

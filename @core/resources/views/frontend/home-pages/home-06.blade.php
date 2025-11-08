@@ -42,7 +42,7 @@
         <div class="container-fluid nav-container">
             <div class="responsive-mobile-menu">
                 <div class="logo-wrapper">
-                    <a href="{{url('/')}}" class="logo">
+                    <a href="{{url('/')}}" class="logo" style="display:block; width: 180px;">
                         @if(!empty(filter_static_option_value('site_logo',$global_static_field_data)))
                             {!! render_image_markup_by_attachment_id(filter_static_option_value('site_logo',$global_static_field_data)) !!}
                         @else

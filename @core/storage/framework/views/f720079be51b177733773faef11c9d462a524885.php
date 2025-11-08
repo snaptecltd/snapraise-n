@@ -1,4 +1,4 @@
 $(document).on('click','#update',function () {
     $(this).addClass("disabled")
     $(this).html('<i class="fas fa-spinner fa-spin mr-1"></i> <?php echo e(__("Updating")); ?>');
-});<?php /**PATH /Users/xgenious/Desktop/xgenious/localhost/fundorex-last-file/@core/resources/views/components/btn/update.blade.php ENDPATH**/ ?>
+});<?php /**PATH /Users/snaptec/Desktop/snaptec/localhost/snaptec-last-file/@core/resources/views/components/btn/update.blade.php ENDPATH**/ ?>

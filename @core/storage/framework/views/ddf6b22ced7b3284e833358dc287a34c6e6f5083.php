@@ -220,4 +220,4 @@
 <?php endif; ?>
 <?php $__env->stopSection(); ?>
 
-<?php echo $__env->make('frontend.user.dashboard.user-master', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /home/xgenxchi/fundorex.xgenious.com/@core/resources/views/frontend/user/dashboard/campaigns/cause-gifts/all-gifts.blade.php ENDPATH**/ ?>
+<?php echo $__env->make('frontend.user.dashboard.user-master', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /home/xgenxchi/snaptec.snaptec.com/@core/resources/views/frontend/user/dashboard/campaigns/cause-gifts/all-gifts.blade.php ENDPATH**/ ?>

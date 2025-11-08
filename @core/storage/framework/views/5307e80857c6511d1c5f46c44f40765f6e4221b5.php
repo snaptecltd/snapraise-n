@@ -586,4 +586,4 @@
         });
 
     </script>
-<?php $__env->stopSection(); ?><?php /**PATH /home/xgenxchi/fundorex.xgenious.com/@core/resources/views/frontend/home-pages/home-06.blade.php ENDPATH**/ ?>
+<?php $__env->stopSection(); ?><?php /**PATH /home/xgenxchi/snaptec.snaptec.com/@core/resources/views/frontend/home-pages/home-06.blade.php ENDPATH**/ ?>

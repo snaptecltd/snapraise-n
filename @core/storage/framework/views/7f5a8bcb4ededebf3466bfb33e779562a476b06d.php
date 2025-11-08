@@ -9,4 +9,4 @@
             <button type="submit"><?php echo e(__('Search')); ?></button>
         </form>
     </div>
-</div><?php /**PATH /home/xgenxchi/fundorex.xgenious.com/@core/resources/views/components/frontend/search-popup.blade.php ENDPATH**/ ?>
+</div><?php /**PATH /home/xgenxchi/snaptec.snaptec.com/@core/resources/views/components/frontend/search-popup.blade.php ENDPATH**/ ?>

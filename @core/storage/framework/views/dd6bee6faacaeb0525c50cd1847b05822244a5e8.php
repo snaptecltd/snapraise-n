@@ -190,4 +190,4 @@
 </div>
 </body>
 </html>
-<?php /**PATH /home/xgenxchi/public_html/laravel/fundorex/@core/resources/views/mail/donation-payment-success.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/xgenxchi/public_html/laravel/snaptec/@core/resources/views/mail/donation-payment-success.blade.php ENDPATH**/ ?>

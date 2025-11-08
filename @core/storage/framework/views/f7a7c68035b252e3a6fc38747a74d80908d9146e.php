@@ -13,4 +13,4 @@ document.f1.submit();
 </script>
 </form>
 <?php $__env->stopSection(); ?>
-<?php echo $__env->make($view, \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /Users/xgenious/Desktop/xgenious/localhost/fundorex-last-server-file-with-api/@core/vendor/anandsiddharth/laravel-paytm-wallet/src/resources/views/form.blade.php ENDPATH**/ ?>
+<?php echo $__env->make($view, \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /Users/snaptec/Desktop/snaptec/localhost/snaptec-last-server-file-with-api/@core/vendor/anandsiddharth/laravel-paytm-wallet/src/resources/views/form.blade.php ENDPATH**/ ?>

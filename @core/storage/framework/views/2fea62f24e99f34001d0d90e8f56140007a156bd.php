@@ -29,4 +29,4 @@
             </div>
         </form>
     </div>
-</div><?php /**PATH /Users/xgenious/Desktop/xgenious/localhost/fundorex-with-api/@core/resources/views/frontend/partials/ajax-login-form.blade.php ENDPATH**/ ?>
+</div><?php /**PATH /Users/snaptec/Desktop/snaptec/localhost/snaptec-with-api/@core/resources/views/frontend/partials/ajax-login-form.blade.php ENDPATH**/ ?>

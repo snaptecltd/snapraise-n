@@ -31,4 +31,4 @@ $('.all-checkbox').on('change',function (e) {
     }else{
         allChek.prop('checked',false);
     }
-});<?php /**PATH /home/xgenxchi/public_html/laravel/fundorex/beta/@core/resources/views/components/bulk-action-js.blade.php ENDPATH**/ ?>
+});<?php /**PATH /home/xgenxchi/public_html/laravel/snaptec/beta/@core/resources/views/components/bulk-action-js.blade.php ENDPATH**/ ?>

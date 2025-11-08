@@ -18,7 +18,7 @@ use Mollie\Laravel\Facades\Mollie;
 use Razorpay\Api\Api;
 use Stripe\Charge;
 use Stripe\Stripe;
-use Xgenious\Paymentgateway\Facades\XgPaymentGateway;
+use Snaptec\Paymentgateway\Facades\XgPaymentGateway;
 
 
 class JobPaymentController extends Controller

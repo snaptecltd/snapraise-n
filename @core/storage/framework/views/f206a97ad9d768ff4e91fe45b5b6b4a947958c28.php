@@ -573,4 +573,4 @@
         });
 
     </script>
-<?php $__env->stopSection(); ?><?php /**PATH /Users/xgenious/Desktop/xgenious/localhost/fundorex-last-file/@core/resources/views/frontend/home-pages/home-06.blade.php ENDPATH**/ ?>
+<?php $__env->stopSection(); ?><?php /**PATH /Users/snaptec/Desktop/snaptec/localhost/snaptec-last-file/@core/resources/views/frontend/home-pages/home-06.blade.php ENDPATH**/ ?>

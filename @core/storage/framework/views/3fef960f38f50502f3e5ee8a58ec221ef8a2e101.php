@@ -9,4 +9,4 @@
             <button type="submit"><?php echo e(__('Search')); ?></button>
         </form>
     </div>
-</div><?php /**PATH /Users/xgenious/Desktop/xgenious/localhost/fundoex-last-file/@core/resources/views/components/frontend/search-popup.blade.php ENDPATH**/ ?>
+</div><?php /**PATH /Users/snaptec/Desktop/snaptec/localhost/fundoex-last-file/@core/resources/views/components/frontend/search-popup.blade.php ENDPATH**/ ?>

@@ -5,4 +5,4 @@
         $(this).parent().parent().children('input').val(selectedIcon);
         $('body .dropdown-menu.iconpicker-container').removeClass('show');
     });
-</script><?php /**PATH /Users/xgenious/Desktop/xgenious/localhost/fundorex-last-server-file-with-api/@core/resources/views/components/icon-picker-activate-js.blade.php ENDPATH**/ ?>
+</script><?php /**PATH /Users/snaptec/Desktop/snaptec/localhost/snaptec-last-server-file-with-api/@core/resources/views/components/icon-picker-activate-js.blade.php ENDPATH**/ ?>

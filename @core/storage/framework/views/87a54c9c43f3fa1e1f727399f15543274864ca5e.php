@@ -52,6 +52,6 @@
 <?php
     $home_page_variant = $home_page ?? filter_static_option_value('home_page_variant',$global_static_field_data);
 ?>
-<body class="version_<?php echo e(getenv('XGENIOUS_SCRIPT_VERSION')); ?> <?php echo e(filter_static_option_value('item_license_status',$global_static_field_data)); ?> apps_key_<?php echo e(getenv('XGENIOUS_API_KEY')); ?> ">
+<body class="version_<?php echo e(getenv('Snaptec_SCRIPT_VERSION')); ?> <?php echo e(filter_static_option_value('item_license_status',$global_static_field_data)); ?> apps_key_<?php echo e(getenv('Snaptec_API_KEY')); ?> ">
 <?php echo $__env->make('frontend.partials.preloader', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
-<?php /**PATH /home/xgenxchi/public_html/laravel/fundorex/beta/@core/resources/views/frontend/partials/header.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/xgenxchi/public_html/laravel/snaptec/beta/@core/resources/views/frontend/partials/header.blade.php ENDPATH**/ ?>

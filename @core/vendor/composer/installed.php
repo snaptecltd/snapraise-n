@@ -1897,21 +1897,21 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
-        'xgenious/paymentgateway' => array(
+        'snaptec/paymentgateway' => array(
             'pretty_version' => 'v3.0.18',
             'version' => '3.0.18.0',
             'reference' => '2dde8c7c1881c0e89dfed6b00734cbedec4aa765',
             'type' => 'library',
-            'install_path' => __DIR__ . '/../xgenious/paymentgateway',
+            'install_path' => __DIR__ . '/../snaptec/paymentgateway',
             'aliases' => array(),
             'dev_requirement' => false,
         ),
-        'xgenious/xgapiclient' => array(
+        'snaptec/xgapiclient' => array(
             'pretty_version' => 'v1.1.4',
             'version' => '1.1.4.0',
             'reference' => 'd17e26020cde9c96f6521f30632da6f0aa38e0bc',
             'type' => 'library',
-            'install_path' => __DIR__ . '/../xgenious/xgapiclient',
+            'install_path' => __DIR__ . '/../snaptec/xgapiclient',
             'aliases' => array(),
             'dev_requirement' => false,
         ),

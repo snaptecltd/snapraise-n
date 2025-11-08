@@ -121,4 +121,4 @@
         </nav>
     </div>
 </div>
-<?php /**PATH /home/xgenxchi/fundorex.xgenious.com/@core/resources/views/frontend/partials/navbar.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/xgenxchi/snaptec.snaptec.com/@core/resources/views/frontend/partials/navbar.blade.php ENDPATH**/ ?>

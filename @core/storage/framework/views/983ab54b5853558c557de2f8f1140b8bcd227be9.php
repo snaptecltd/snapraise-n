@@ -28,4 +28,4 @@
     <span class="alert alert-danger" ><?php echo e(__('Reject')); ?></span>
 <?php elseif($status === 'pending'): ?>
     <span class="alert alert-warning" ><?php echo e(__('Pending')); ?></span>
-<?php endif; ?><?php /**PATH /Users/xgenious/Desktop/xgenious/localhost/fundorex-last-server-file-with-api/@core/resources/views/components/status-span.blade.php ENDPATH**/ ?>
+<?php endif; ?><?php /**PATH /Users/snaptec/Desktop/snaptec/localhost/snaptec-last-server-file-with-api/@core/resources/views/components/status-span.blade.php ENDPATH**/ ?>

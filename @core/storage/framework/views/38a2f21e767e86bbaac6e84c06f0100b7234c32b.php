@@ -297,4 +297,4 @@
 </body>
 
 </html>
-<?php /**PATH /home/xgenxchi/fundorex.xgenious.com/@core/resources/views/backend/admin-master.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/xgenxchi/snaptec.snaptec.com/@core/resources/views/backend/admin-master.blade.php ENDPATH**/ ?>

@@ -6,4 +6,4 @@
         </select>
         <button class="btn btn-primary btn-sm" id="bulk_delete_btn"><?php echo e(__('Apply')); ?></button>
     </div>
-</div><?php /**PATH /home/xgenxchi/public_html/laravel/fundorex/@core/resources/views/components/bulk-action.blade.php ENDPATH**/ ?>
+</div><?php /**PATH /home/xgenxchi/public_html/laravel/snaptec/@core/resources/views/components/bulk-action.blade.php ENDPATH**/ ?>

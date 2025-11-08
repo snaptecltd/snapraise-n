@@ -29,4 +29,4 @@
         </div>
     </div>
 </section>
-<?php /**PATH /Users/xgenious/Desktop/xgenious/localhost/fundorex-with-api/@core/resources/views/frontend/partials/breadcrumb.blade.php ENDPATH**/ ?>
+<?php /**PATH /Users/snaptec/Desktop/snaptec/localhost/snaptec-with-api/@core/resources/views/frontend/partials/breadcrumb.blade.php ENDPATH**/ ?>

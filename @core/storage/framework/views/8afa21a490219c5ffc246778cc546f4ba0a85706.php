@@ -142,4 +142,4 @@
         </div>
     </body>
 </html>
-<?php /**PATH /Users/xgenious/Desktop/xgenious/localhost/fundoex-last-file/@core/resources/views/errors/500.blade.php ENDPATH**/ ?>
+<?php /**PATH /Users/snaptec/Desktop/snaptec/localhost/fundoex-last-file/@core/resources/views/errors/500.blade.php ENDPATH**/ ?>

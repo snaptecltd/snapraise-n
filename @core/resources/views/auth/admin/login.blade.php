@@ -43,7 +43,7 @@
                             <button id="form_submit" type="submit">{{__('Login')}} <i class="ti-arrow-right"></i></button>
                         </div>
                     </div>
-                    @if(preg_match('/(xgenious)/',url('/')))
+                    @if(preg_match('/(snaptec)/',url('/')))
                         <div class="adminlogin-info">
                             <table class="table-default">
                                 <th>{{__('Username')}}</th>

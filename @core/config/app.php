@@ -179,7 +179,7 @@ return [
          * Provider registered by developers
          * */
         App\Providers\ValidatorServiceProvider::class,
-        App\Providers\FundorexMacroServiceProvider::class,
+        App\Providers\SnaptecMacroServiceProvider::class,
         \Paytabscom\Laravel_paytabs\PaypageServiceProvider::class,
     ],
 

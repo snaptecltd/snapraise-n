@@ -138,4 +138,4 @@
         </div>
     </body>
 </html>
-<?php /**PATH /home/xgenxchi/public_html/laravel/fundorex/beta/@core/resources/views/frontend/pages/404.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/xgenxchi/public_html/laravel/snaptec/beta/@core/resources/views/frontend/pages/404.blade.php ENDPATH**/ ?>

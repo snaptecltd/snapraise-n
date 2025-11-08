@@ -73,4 +73,4 @@
             </div>
         </div>
     </div>
-</div><?php /**PATH /Users/xgenious/Desktop/xgenious/localhost/fundorex-last-file/@core/resources/views/components/media/markup.blade.php ENDPATH**/ ?>
+</div><?php /**PATH /Users/snaptec/Desktop/snaptec/localhost/snaptec-last-file/@core/resources/views/components/media/markup.blade.php ENDPATH**/ ?>

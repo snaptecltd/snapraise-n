@@ -7,4 +7,4 @@
         gtag('js', new Date());
         gtag('config', "<?php echo e(filter_static_option_value('site_google_analytics',$global_static_field_data)); ?>");
     </script>
-<?php endif; ?><?php /**PATH /Users/xgenious/Desktop/xgenious/localhost/fundoex-last-file/@core/resources/views/frontend/partials/google-analytics.blade.php ENDPATH**/ ?>
+<?php endif; ?><?php /**PATH /Users/snaptec/Desktop/snaptec/localhost/fundoex-last-file/@core/resources/views/frontend/partials/google-analytics.blade.php ENDPATH**/ ?>

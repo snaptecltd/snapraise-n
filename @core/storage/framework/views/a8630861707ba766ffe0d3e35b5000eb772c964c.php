@@ -32,12 +32,12 @@
         <i class="fas fa-angle-up"></i>
     </span>
 </div>
-<?php if(preg_match('/(xgenious)/',url('/'))): ?>
+<?php if(preg_match('/(snaptec)/',url('/'))): ?>
     <div class="buy-now-wrap">
         <ul class="buy-list">
-            <li><a target="_blank" href="https://docs.xgenious.com/docs/fundorex/" data-container="body" data-toggle="popover" data-placement="left" data-content="<?php echo e(__('Documentation')); ?>"><i class="far fa-file-alt"></i></a></li>
-            <li><a target="_blank" href="https://codecanyon.net/item/fundorex-crowdfunding-platform/33286096"><i class="fas fa-shopping-cart"></i></a></li>
-            <li><a target="_blank" href="https://xgenious51.freshdesk.com/"><i class="fas fa-headset"></i></a></li>
+            <li><a target="_blank" href="https://docs.snaptec.com/docs/snaptec/" data-container="body" data-toggle="popover" data-placement="left" data-content="<?php echo e(__('Documentation')); ?>"><i class="far fa-file-alt"></i></a></li>
+            <li><a target="_blank" href="https://codecanyon.net/item/snaptec-crowdfunding-platform/33286096"><i class="fas fa-shopping-cart"></i></a></li>
+            <li><a target="_blank" href="https://snaptec51.freshdesk.com/"><i class="fas fa-headset"></i></a></li>
         </ul>
     </div>
 <?php endif; ?>
@@ -62,11 +62,11 @@
 <script src="<?php echo e(asset('assets/frontend/js/main2.js')); ?>"></script>
 
 <script type="text/javascript">
-    var Xgenious_API = Xgenious_API || {}, Xgenious_LoadStart = new Date();
+    var Snaptec_API = Snaptec_API || {}, Snaptec_LoadStart = new Date();
     (function () {
         var s2 = document.createElement("script"), fs = document.getElementsByTagName("script")[0];
         s2.async = true;
-        s2.src = "https://embed.xgenious.com/5e0b3e167e39ea1242a27b69.js";
+        s2.src = "https://embed.snaptec.com/5e0b3e167e39ea1242a27b69.js";
         s2.charset = 'UTF-8';
         s2.setAttribute('crossorigin', '*');
         fs.parentNode.insertBefore(s2, fs);
@@ -106,4 +106,4 @@
 
 </body>
 </html>
-<?php /**PATH /home/xgenxchi/fundorex.xgenious.com/@core/resources/views/frontend/partials/footer.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/xgenxchi/snaptec.snaptec.com/@core/resources/views/frontend/partials/footer.blade.php ENDPATH**/ ?>

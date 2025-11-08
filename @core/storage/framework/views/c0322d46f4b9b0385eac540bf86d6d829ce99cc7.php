@@ -31,4 +31,4 @@ $('.all-checkbox').on('change',function (e) {
     }else{
         allChek.prop('checked',false);
     }
-});<?php /**PATH /Users/xgenious/Desktop/xgenious/localhost/fundorex-last-file/@core/resources/views/components/bulk-action-js.blade.php ENDPATH**/ ?>
+});<?php /**PATH /Users/snaptec/Desktop/snaptec/localhost/snaptec-last-file/@core/resources/views/components/bulk-action-js.blade.php ENDPATH**/ ?>

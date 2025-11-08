@@ -78,7 +78,7 @@
                             <input type="text" class="form-control" name="envato_purchase_code" value="<?php echo e(get_static_option("license_purchase_code")); ?>">
                             <small><?php echo e(__('follow this article to know hwo you will get your envato purchase code for this script')); ?>
 
-                                <a href="https://xgenious.com/where-can-i-find-my-purchase-code-at-codecanyon/" target="_blank"><?php echo e(__('how to get envato purchase code')); ?></a></small>
+                                <a href="https://snaptec.ltd/where-can-i-find-my-purchase-code-at-codecanyon/" target="_blank"><?php echo e(__('how to get envato purchase code')); ?></a></small>
                         </div>
                     </div>
                     <div class="modal-footer">
@@ -91,4 +91,4 @@
     </div>
 <?php $__env->stopSection(); ?>
 
-<?php echo $__env->make('backend.admin-master', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /home/xgenxchi/fundorex.xgenious.com/@core/resources/views/backend/general-settings/license-settings.blade.php ENDPATH**/ ?>
+<?php echo $__env->make('backend.admin-master', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /home/xgenxchi/snaptec.snaptec.com/@core/resources/views/backend/general-settings/license-settings.blade.php ENDPATH**/ ?>

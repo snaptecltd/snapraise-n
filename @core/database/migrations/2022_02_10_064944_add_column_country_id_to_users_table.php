@@ -5,7 +5,7 @@ use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
 
-///laravel/fundorex/beta/@core/database/migrations/2022_02_10_064944_add_column_country_id_to_users_table.php
+///laravel/snaptec/beta/@core/database/migrations/2022_02_10_064944_add_column_country_id_to_users_table.php
 class AddColumnCountryIdToUsersTable extends Migration
 {
     public function up()

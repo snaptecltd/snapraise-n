@@ -49,5 +49,5 @@
 @php
     $home_page_variant = $home_page ?? filter_static_option_value('home_page_variant',$global_static_field_data);
 @endphp
-<body class="version_{{getenv('XGENIOUS_SCRIPT_VERSION')}} {{filter_static_option_value('item_license_status',$global_static_field_data)}} apps_key_{{getenv('XGENIOUS_API_KEY')}} ">
+<body class="version_{{getenv('Snaptec_SCRIPT_VERSION')}} {{filter_static_option_value('item_license_status',$global_static_field_data)}} apps_key_{{getenv('Snaptec_API_KEY')}} ">
 @include('frontend.partials.preloader')

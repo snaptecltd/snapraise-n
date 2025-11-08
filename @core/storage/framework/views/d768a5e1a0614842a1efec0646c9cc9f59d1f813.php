@@ -21,4 +21,4 @@
 
     </button>
 </div>
-<?php /**PATH /home/xgenxchi/public_html/laravel/fundorex/@core/resources/views/components/image.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/xgenxchi/public_html/laravel/snaptec/@core/resources/views/components/image.blade.php ENDPATH**/ ?>

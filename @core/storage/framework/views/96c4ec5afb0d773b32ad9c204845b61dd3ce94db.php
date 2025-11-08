@@ -115,4 +115,4 @@
         </nav>
     </div>
 </div>
-<?php /**PATH /Users/xgenious/Desktop/xgenious/localhost/fundorex-last-file/@core/resources/views/frontend/partials/navbar.blade.php ENDPATH**/ ?>
+<?php /**PATH /Users/snaptec/Desktop/snaptec/localhost/snaptec-last-file/@core/resources/views/frontend/partials/navbar.blade.php ENDPATH**/ ?>

@@ -627,4 +627,4 @@
     </div>
 </section>
 <!-- blog area end -->
- <?php endif; ?><?php /**PATH /home/xgenxchi/public_html/laravel/fundorex/@core/resources/views/frontend/home-pages/home-03.blade.php ENDPATH**/ ?>
+ <?php endif; ?><?php /**PATH /home/xgenxchi/public_html/laravel/snaptec/@core/resources/views/frontend/home-pages/home-03.blade.php ENDPATH**/ ?>

@@ -66,4 +66,4 @@
     <?php echo $__env->yieldContent('scripts'); ?>
 </body>
 </html>
-<?php /**PATH /home/xgenxchi/public_html/laravel/fundorex/beta/@core/resources/views/layouts/login-screens.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/xgenxchi/public_html/laravel/snaptec/beta/@core/resources/views/layouts/login-screens.blade.php ENDPATH**/ ?>

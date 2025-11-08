@@ -4,4 +4,4 @@
 
     </div>
 <?php endif; ?>
-<?php /**PATH /home/xgenxchi/fundorex.xgenious.com/@core/resources/views/components/flash-msg.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/xgenxchi/snaptec.snaptec.com/@core/resources/views/components/flash-msg.blade.php ENDPATH**/ ?>

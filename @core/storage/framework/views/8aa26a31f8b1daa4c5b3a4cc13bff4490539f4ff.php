@@ -13,4 +13,4 @@
         display: inline-block;
     }
     table.dataTable {width: 100% !important;}
-</style><?php /**PATH /home/xgenxchi/public_html/laravel/fundorex/@core/resources/views/backend/partials/datatable/style-enqueue.blade.php ENDPATH**/ ?>
+</style><?php /**PATH /home/xgenxchi/public_html/laravel/snaptec/@core/resources/views/backend/partials/datatable/style-enqueue.blade.php ENDPATH**/ ?>

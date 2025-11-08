@@ -43,4 +43,4 @@
         });
 
     })(jQuery)
-</script><?php /**PATH /Users/xgenious/Desktop/xgenious/localhost/fundoex-last-file/@core/resources/views/frontend/partials/ajax-login-js.blade.php ENDPATH**/ ?>
+</script><?php /**PATH /Users/snaptec/Desktop/snaptec/localhost/fundoex-last-file/@core/resources/views/frontend/partials/ajax-login-js.blade.php ENDPATH**/ ?>

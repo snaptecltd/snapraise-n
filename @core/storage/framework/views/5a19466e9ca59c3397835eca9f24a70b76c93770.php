@@ -115,4 +115,4 @@
         </nav>
     </div>
 </div>
-<?php /**PATH /home/xgenxchi/public_html/laravel/fundorex/beta/@core/resources/views/frontend/partials/navbar.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/xgenxchi/public_html/laravel/snaptec/beta/@core/resources/views/frontend/partials/navbar.blade.php ENDPATH**/ ?>

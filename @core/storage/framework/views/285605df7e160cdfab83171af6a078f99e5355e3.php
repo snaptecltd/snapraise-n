@@ -31,4 +31,4 @@
 <?php else: ?>
     <title><?php echo e(filter_static_option_value('site_title',$global_static_field_data)); ?> - <?php echo e(filter_static_option_value('site_tag_line',$global_static_field_data)); ?></title>
 <?php endif; ?>
-<?php /**PATH /Users/xgenious/Desktop/xgenious/localhost/fundorex-last-file/@core/resources/views/frontend/partials/og-meta.blade.php ENDPATH**/ ?>
+<?php /**PATH /Users/snaptec/Desktop/snaptec/localhost/snaptec-last-file/@core/resources/views/frontend/partials/og-meta.blade.php ENDPATH**/ ?>

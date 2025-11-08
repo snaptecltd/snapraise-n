@@ -22,4 +22,4 @@
             });
         });
     </script>
-<?php endif; ?><?php /**PATH /home/xgenxchi/public_html/laravel/fundorex/beta/@core/resources/views/frontend/partials/gdpr-cookie.blade.php ENDPATH**/ ?>
+<?php endif; ?><?php /**PATH /home/xgenxchi/public_html/laravel/snaptec/beta/@core/resources/views/frontend/partials/gdpr-cookie.blade.php ENDPATH**/ ?>

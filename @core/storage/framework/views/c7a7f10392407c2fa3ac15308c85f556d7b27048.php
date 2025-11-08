@@ -10,4 +10,4 @@
             <p class="description"><?php echo e($description); ?></p>
         </div>
     </a>
-</div><?php /**PATH /home/xgenxchi/public_html/laravel/fundorex/@core/resources/views/components/frontend/donation/category.blade.php ENDPATH**/ ?>
+</div><?php /**PATH /home/xgenxchi/public_html/laravel/snaptec/@core/resources/views/components/frontend/donation/category.blade.php ENDPATH**/ ?>

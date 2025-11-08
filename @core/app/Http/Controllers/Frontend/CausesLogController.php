@@ -18,7 +18,7 @@ use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Str;
 
 use MercadoPago\Payment;
-use Xgenious\Paymentgateway\Facades\XgPaymentGateway;
+use Snaptec\Paymentgateway\Facades\XgPaymentGateway;
 
 
 class CausesLogController extends Controller

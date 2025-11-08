@@ -19,4 +19,4 @@
             </div>
         </div>
     </div>
-</div><?php /**PATH /home/xgenxchi/public_html/laravel/fundorex/@core/resources/views/components/frontend/team/grid.blade.php ENDPATH**/ ?>
+</div><?php /**PATH /home/xgenxchi/public_html/laravel/snaptec/@core/resources/views/components/frontend/team/grid.blade.php ENDPATH**/ ?>

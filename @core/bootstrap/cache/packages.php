@@ -197,22 +197,22 @@
       'Paystack' => 'Unicodeveloper\\Paystack\\Facades\\Paystack',
     ),
   ),
-  'xgenious/paymentgateway' => 
+  'snaptec/paymentgateway' => 
   array (
     'providers' => 
     array (
-      0 => 'Xgenious\\Paymentgateway\\Providers\\PaymentgatewayServiceProvider',
+      0 => 'Snaptec\\Paymentgateway\\Providers\\PaymentgatewayServiceProvider',
     ),
   ),
-  'xgenious/xgapiclient' => 
+  'snaptec/xgapiclient' => 
   array (
     'providers' => 
     array (
-      0 => 'Xgenious\\XgApiClient\\XgApiClientServiceProvider',
+      0 => 'Snaptec\\XgApiClient\\XgApiClientServiceProvider',
     ),
     'aliases' => 
     array (
-      'XgApiClient' => 'Xgenious\\XgApiClient\\Facades\\XgApiClient',
+      'XgApiClient' => 'Snaptec\\XgApiClient\\Facades\\XgApiClient',
     ),
   ),
   'yajra/laravel-datatables-oracle' => 

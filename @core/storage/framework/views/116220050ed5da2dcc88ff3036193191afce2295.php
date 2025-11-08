@@ -26,4 +26,4 @@
             </div>
         </div>
     </div>
-</div><?php /**PATH /home/xgenxchi/fundorex.xgenious.com/@core/resources/views/components/frontend/event/grid.blade.php ENDPATH**/ ?>
+</div><?php /**PATH /home/xgenxchi/snaptec.snaptec.com/@core/resources/views/components/frontend/event/grid.blade.php ENDPATH**/ ?>

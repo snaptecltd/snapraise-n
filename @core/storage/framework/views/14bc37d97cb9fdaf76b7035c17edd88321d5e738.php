@@ -16,4 +16,4 @@
         </div>
     </div>
 </a>
-<?php endif; ?><?php /**PATH /Users/xgenious/Desktop/xgenious/localhost/fundorex-last-file/@core/resources/views/components/front-donate-btn.blade.php ENDPATH**/ ?>
+<?php endif; ?><?php /**PATH /Users/snaptec/Desktop/snaptec/localhost/snaptec-last-file/@core/resources/views/components/front-donate-btn.blade.php ENDPATH**/ ?>

@@ -18,4 +18,4 @@
             
     })(jQuery);
 </script>
-<?php endif; ?><?php /**PATH /home/xgenxchi/fundorex.xgenious.com/@core/resources/views/backend/partials/datatable/script-enqueue.blade.php ENDPATH**/ ?>
+<?php endif; ?><?php /**PATH /home/xgenxchi/snaptec.snaptec.com/@core/resources/views/backend/partials/datatable/script-enqueue.blade.php ENDPATH**/ ?>

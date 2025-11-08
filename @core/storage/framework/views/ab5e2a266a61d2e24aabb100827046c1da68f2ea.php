@@ -13,4 +13,4 @@
 --heading-font: "<?php echo e($heading_font_family); ?>",sans-serif;
         --body-font:"<?php echo e(filter_static_option_value('body_font_family',$global_static_field_data)); ?>",sans-serif;
     }
-</style><?php /**PATH /home/xgenxchi/fundorex.xgenious.com/@core/resources/views/frontend/partials/css-variable.blade.php ENDPATH**/ ?>
+</style><?php /**PATH /home/xgenxchi/snaptec.snaptec.com/@core/resources/views/frontend/partials/css-variable.blade.php ENDPATH**/ ?>

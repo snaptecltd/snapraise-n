@@ -68,4 +68,4 @@
             </div>
         </div>
     </div>
-</div><?php /**PATH /home/xgenxchi/fundorex.xgenious.com/@core/resources/views/backend/partials/media-upload/media-upload-markup.blade.php ENDPATH**/ ?>
+</div><?php /**PATH /home/xgenxchi/snaptec.snaptec.com/@core/resources/views/backend/partials/media-upload/media-upload-markup.blade.php ENDPATH**/ ?>

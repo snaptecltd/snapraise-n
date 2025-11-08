@@ -14,4 +14,4 @@
     table.dataTable{
         width: 100% !important;
     }
-</style><?php /**PATH /Users/xgenious/Desktop/xgenious/localhost/fundorex-with-api/@core/resources/views/components/datatable/css.blade.php ENDPATH**/ ?>
+</style><?php /**PATH /Users/snaptec/Desktop/snaptec/localhost/snaptec-with-api/@core/resources/views/components/datatable/css.blade.php ENDPATH**/ ?>

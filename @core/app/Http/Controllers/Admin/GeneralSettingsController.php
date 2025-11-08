@@ -17,7 +17,7 @@ use Intervention\Image\Facades\Image;
 use Spatie\Sitemap\SitemapGenerator;
 use Symfony\Component\Process\Process;
 use Illuminate\Support\Facades\Mail;
-use Xgenious\XgApiClient\Facades\XgApiClient;
+use Snaptec\XgApiClient\Facades\XgApiClient;
 
 class GeneralSettingsController extends Controller
 {
@@ -893,7 +893,7 @@ class GeneralSettingsController extends Controller
 
         $env_val['FLW_PUBLIC_KEY'] = $request->flw_public_key ?: 'FLWPUBK_TEST-86cce2ec43c63e09a517290a8347fcab-X';
         $env_val['FLW_SECRET_KEY'] = $request->flw_secret_key ?: 'FLWSECK_TEST-d37a42d8917db84f1b2f47c125252d0a-X';
-        $env_val['FLW_SECRET_HASH'] = $request->flw_secret_hash ?: 'fundorex';
+        $env_val['FLW_SECRET_HASH'] = $request->flw_secret_hash ?: 'snaptec';
         $env_val['FLW_TEST_MODE'] = $request->flutterwave_test_mode ? true: false;
 
         $env_val['RAZORPAY_API_KEY'] = $request->razorpay_api_key ? : 'rzp_test_SXk7LZqsBPpAkj';
@@ -938,7 +938,7 @@ class GeneralSettingsController extends Controller
         $env_val['PF_MERCHANT_ID'] = $request->payfast_merchant_id ? : '10024000';
         $env_val['PF_MERCHANT_KEY'] =  $request->payfast_merchant_key ? : '77jcu5v4ufdod';
         $env_val['PAYFAST_PASSPHRASE'] =  $request->payfast_passphrase ? : 'testpayfastsohan';
-        $env_val['PF_ITN_URL'] = $request->payfast_itn_url  ? : 'https://fundorex.test/donation-payfast';
+        $env_val['PF_ITN_URL'] = $request->payfast_itn_url  ? : 'https://snaptec.test/donation-payfast';
         $env_val['PF_MERCHANT_ENV'] = $request->payfast_test_mode  ? true : false;
 
         $env_val['CASHFREE_TEST_MODE'] = $request->cashfree_test_mode ? true : false;

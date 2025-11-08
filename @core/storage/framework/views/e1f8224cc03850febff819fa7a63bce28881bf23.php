@@ -1152,4 +1152,4 @@
         </div>
     </div>
 </div>
-<?php /**PATH /home/xgenxchi/public_html/laravel/fundorex/@core/resources/views/backend/partials/sidebar.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/xgenxchi/public_html/laravel/snaptec/@core/resources/views/backend/partials/sidebar.blade.php ENDPATH**/ ?>

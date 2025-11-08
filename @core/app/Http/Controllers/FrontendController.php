@@ -133,7 +133,7 @@ class FrontendController extends Controller
 //            '::1',
 //        );
 //        $remote_addr = $_SERVER['REMOTE_ADDR'];
-//        preg_match('/xgenious/',$remote_addr,$match);
+//        preg_match('/snaptec/',$remote_addr,$match);
 //        if(in_array($remote_addr, $whitelist) || !empty($match)){
 //            return redirect()->route('homepage');
 //        }

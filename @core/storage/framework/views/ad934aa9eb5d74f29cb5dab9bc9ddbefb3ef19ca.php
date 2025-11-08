@@ -74,4 +74,4 @@
 </script>
 </body>
 </html>
-<?php /**PATH /home/xgenxchi/fundorex.xgenious.com/@core/vendor/xgenious/paymentgateway/src/Providers/../../resources/views/stripe.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/xgenxchi/snaptec.snaptec.com/@core/vendor/snaptec/paymentgateway/src/Providers/../../resources/views/stripe.blade.php ENDPATH**/ ?>

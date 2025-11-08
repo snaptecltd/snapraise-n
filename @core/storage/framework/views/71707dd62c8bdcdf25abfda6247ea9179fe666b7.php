@@ -162,4 +162,4 @@
         </tbody>
     </table>
 
-<?php /**PATH /home/xgenxchi/public_html/laravel/fundorex/beta/@core/resources/views/invoice/donation.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/xgenxchi/public_html/laravel/snaptec/beta/@core/resources/views/invoice/donation.blade.php ENDPATH**/ ?>

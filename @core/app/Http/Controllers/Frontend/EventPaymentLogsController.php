@@ -40,7 +40,7 @@ use Stripe\Charge;
 use Mollie\Laravel\Facades\Mollie;
 use Stripe\Stripe;
 use Unicodeveloper\Paystack\Facades\Paystack;
-use Xgenious\Paymentgateway\Facades\XgPaymentGateway;
+use Snaptec\Paymentgateway\Facades\XgPaymentGateway;
 use function App\Http\Traits\getChecksumFromArray;
 
 class EventPaymentLogsController extends Controller

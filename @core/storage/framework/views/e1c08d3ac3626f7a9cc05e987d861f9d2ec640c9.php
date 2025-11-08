@@ -143,4 +143,4 @@
 
 
 
-<?php /**PATH /home/xgenxchi/fundorex.xgenious.com/@core/resources/views/invoice/donation.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/xgenxchi/snaptec.snaptec.com/@core/resources/views/invoice/donation.blade.php ENDPATH**/ ?>

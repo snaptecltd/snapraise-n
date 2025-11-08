@@ -146,4 +146,4 @@
 
         </div>
     </div>
-</div><?php /**PATH /home/xgenxchi/public_html/laravel/fundorex/beta/@core/resources/views/frontend/partials/donation-single/tab-view.blade.php ENDPATH**/ ?>
+</div><?php /**PATH /home/xgenxchi/public_html/laravel/snaptec/beta/@core/resources/views/frontend/partials/donation-single/tab-view.blade.php ENDPATH**/ ?>

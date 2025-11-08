@@ -5,4 +5,4 @@
         $(this).parent().parent().children('input').val(selectedIcon);
         $('body .dropdown-menu.iconpicker-container').removeClass('show');
     });
-</script><?php /**PATH /home/xgenxchi/public_html/laravel/fundorex/@core/resources/views/components/icon-picker-activate-js.blade.php ENDPATH**/ ?>
+</script><?php /**PATH /home/xgenxchi/public_html/laravel/snaptec/@core/resources/views/components/icon-picker-activate-js.blade.php ENDPATH**/ ?>

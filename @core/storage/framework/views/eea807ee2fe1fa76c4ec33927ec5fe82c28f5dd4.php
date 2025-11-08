@@ -35,4 +35,4 @@
         </entry>
     <?php endforeach; $__env->popLoop(); $loop = $__env->getLastLoop(); ?>
 </feed>
-<?php /**PATH /home/xgenxchi/public_html/laravel/fundorex/@core/resources/views/vendor/feed/atom.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/xgenxchi/public_html/laravel/snaptec/@core/resources/views/vendor/feed/atom.blade.php ENDPATH**/ ?>

@@ -46,4 +46,4 @@
             el.hide(300);
         }
     });
-</script><?php /**PATH /home/xgenxchi/public_html/laravel/fundorex/@core/resources/views/components/repeater.blade.php ENDPATH**/ ?>
+</script><?php /**PATH /home/xgenxchi/public_html/laravel/snaptec/@core/resources/views/components/repeater.blade.php ENDPATH**/ ?>

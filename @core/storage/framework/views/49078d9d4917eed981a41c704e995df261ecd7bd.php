@@ -28,4 +28,4 @@
     <span class="alert alert-danger" ><?php echo e(__('Reject')); ?></span>
 <?php elseif($status === 'pending'): ?>
     <span class="alert alert-warning" ><?php echo e(__('Pending')); ?></span>
-<?php endif; ?><?php /**PATH /home/xgenxchi/public_html/laravel/fundorex/beta/@core/resources/views/components/status-span.blade.php ENDPATH**/ ?>
+<?php endif; ?><?php /**PATH /home/xgenxchi/public_html/laravel/snaptec/beta/@core/resources/views/components/status-span.blade.php ENDPATH**/ ?>

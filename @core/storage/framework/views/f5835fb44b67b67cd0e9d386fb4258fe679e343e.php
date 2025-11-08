@@ -143,4 +143,4 @@
 
 
 
-<?php /**PATH /home/xgenxchi/public_html/laravel/fundorex/@core/resources/views/invoice/donation.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/xgenxchi/public_html/laravel/snaptec/@core/resources/views/invoice/donation.blade.php ENDPATH**/ ?>

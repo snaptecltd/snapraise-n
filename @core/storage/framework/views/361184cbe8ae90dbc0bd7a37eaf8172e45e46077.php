@@ -87,4 +87,4 @@
     <script src="<?php echo e(asset('assets/backend/js/dropzone.js')); ?>"></script>
     <?php echo $__env->make('backend.partials.media-upload.media-js', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
 <?php $__env->stopSection(); ?>
-<?php echo $__env->make('backend.admin-master', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /home/xgenxchi/fundorex.xgenious.com/@core/resources/views/backend/admin-role-manage/add-new-user.blade.php ENDPATH**/ ?>
+<?php echo $__env->make('backend.admin-master', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /home/xgenxchi/snaptec.snaptec.com/@core/resources/views/backend/admin-role-manage/add-new-user.blade.php ENDPATH**/ ?>

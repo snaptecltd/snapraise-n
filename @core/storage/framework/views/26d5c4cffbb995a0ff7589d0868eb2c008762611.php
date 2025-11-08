@@ -7,4 +7,4 @@
             <div></div>
         </div>
     </div>
-</div><?php /**PATH /home/xgenxchi/fundorex.xgenious.com/@core/resources/views/frontend/partials/preloader/preloader-default.blade.php ENDPATH**/ ?>
+</div><?php /**PATH /home/xgenxchi/snaptec.snaptec.com/@core/resources/views/frontend/partials/preloader/preloader-default.blade.php ENDPATH**/ ?>

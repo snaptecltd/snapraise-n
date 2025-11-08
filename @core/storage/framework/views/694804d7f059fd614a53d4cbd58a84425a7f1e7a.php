@@ -2,4 +2,4 @@
     <?php echo csrf_field(); ?>
     <input type="hidden" name="item_id" value="<?php echo e($id); ?>">
     <button type="submit" title="clone this to new draft" class="btn btn-xs btn-secondary btn-sm mb-3 mr-1"><i class="far fa-copy"></i></button>
-</form><?php /**PATH /home/xgenxchi/public_html/laravel/fundorex/@core/resources/views/components/clone-icon.blade.php ENDPATH**/ ?>
+</form><?php /**PATH /home/xgenxchi/public_html/laravel/snaptec/@core/resources/views/components/clone-icon.blade.php ENDPATH**/ ?>

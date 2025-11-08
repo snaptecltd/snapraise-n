@@ -9,4 +9,4 @@
 	<center><h2>Please do not refresh this page...</h2></center>
 	<?php echo $__env->yieldContent('payment_redirect'); ?>
 </body>
-</html><?php /**PATH /home/xgenxchi/public_html/laravel/fundorex/beta/@core/vendor/anandsiddharth/laravel-paytm-wallet/src/resources/views/transact.blade.php ENDPATH**/ ?>
+</html><?php /**PATH /home/xgenxchi/public_html/laravel/snaptec/beta/@core/vendor/anandsiddharth/laravel-paytm-wallet/src/resources/views/transact.blade.php ENDPATH**/ ?>

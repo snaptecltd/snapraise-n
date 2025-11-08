@@ -39,4 +39,4 @@
             </div>
         </form>
     </div>
-</div><?php /**PATH /home/xgenxchi/fundorex.xgenious.com/@core/resources/views/frontend/partials/ajax-login-form.blade.php ENDPATH**/ ?>
+</div><?php /**PATH /home/xgenxchi/snaptec.snaptec.com/@core/resources/views/frontend/partials/ajax-login-form.blade.php ENDPATH**/ ?>

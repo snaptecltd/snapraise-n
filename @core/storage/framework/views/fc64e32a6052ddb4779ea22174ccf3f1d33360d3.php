@@ -665,4 +665,4 @@ style="background-image: url(<?php echo e(asset('assets/frontend/img/shape/02.pn
         </div>
     </div>
 </section>
-<?php endif; ?><?php /**PATH /home/xgenxchi/public_html/laravel/fundorex/@core/resources/views/frontend/home-pages/home-02.blade.php ENDPATH**/ ?>
+<?php endif; ?><?php /**PATH /home/xgenxchi/public_html/laravel/snaptec/@core/resources/views/frontend/home-pages/home-02.blade.php ENDPATH**/ ?>

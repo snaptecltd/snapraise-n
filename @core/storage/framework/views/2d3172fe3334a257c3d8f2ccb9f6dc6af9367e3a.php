@@ -651,4 +651,4 @@
     </div>
 </section>
 <!-- blog area end -->
- <?php endif; ?><?php /**PATH /home/xgenxchi/fundorex.xgenious.com/@core/resources/views/frontend/home-pages/home-03.blade.php ENDPATH**/ ?>
+ <?php endif; ?><?php /**PATH /home/xgenxchi/snaptec.snaptec.com/@core/resources/views/frontend/home-pages/home-03.blade.php ENDPATH**/ ?>

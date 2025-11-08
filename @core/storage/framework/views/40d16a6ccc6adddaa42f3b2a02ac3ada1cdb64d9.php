@@ -533,4 +533,4 @@
             });
 
         </script>
-<?php $__env->stopSection(); ?><?php /**PATH /home/xgenxchi/public_html/laravel/fundorex/@core/resources/views/frontend/home-pages/home-05.blade.php ENDPATH**/ ?>
+<?php $__env->stopSection(); ?><?php /**PATH /home/xgenxchi/public_html/laravel/snaptec/@core/resources/views/frontend/home-pages/home-05.blade.php ENDPATH**/ ?>
