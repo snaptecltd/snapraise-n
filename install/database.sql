@@ -1501,13 +1501,7 @@ CREATE TABLE `model_has_roles` (
 --
 
 INSERT INTO `model_has_roles` (`role_id`, `model_type`, `model_id`) VALUES
-(3, 'App\\Admin', 1),
-(2, 'App\\Admin', 3),
-(3, 'App\\Admin', 4),
-(2, 'App\\Admin', 5),
-(3, 'App\\Admin', 6),
-(3, 'App\\Admin', 7),
-(3, 'App\\Admin', 8);
+(1, 'App\\Admin', 1);
 
 -- --------------------------------------------------------
 
@@ -1901,8 +1895,8 @@ CREATE TABLE `roles` (
 --
 
 INSERT INTO `roles` (`id`, `name`, `guard_name`, `created_at`, `updated_at`) VALUES
-(2, 'Admin', 'admin', '2021-07-24 18:04:30', '2021-07-24 21:01:22'),
-(3, 'Super Admin', 'admin', '2021-07-24 18:04:30', '2021-07-24 18:04:30');
+(1, 'Super Admin', 'admin', '2021-07-24 18:04:30', '2021-07-24 18:04:30'),
+(2, 'Admin', 'admin', '2021-07-24 18:04:30', '2021-07-24 21:01:22');
 
 -- --------------------------------------------------------
 
