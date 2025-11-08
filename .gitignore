@@ -4,7 +4,16 @@
 
 # Or, more explicit:
 @core/storage/logs/
+!@core/storage/logs/.gitkeep
+
 @core/storage/debugbar/
+!@core/storage/debugbar/.gitkeep
+
 @core/storage/framework/cache/
+!@core/storage/framework/cache/.gitkeep
+
 @core/storage/framework/sessions/
+!@core/storage/framework/sessions/.gitkeep
+
 @core/storage/framework/views/
+!@core/storage/framework/views/.gitkeep
