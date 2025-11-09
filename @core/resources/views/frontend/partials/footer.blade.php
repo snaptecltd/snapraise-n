@@ -30,7 +30,7 @@
         <i class="fas fa-angle-up"></i>
     </span>
 </div>
-@if(preg_match('/(snaptec)/',url('/')))
+{{-- @if(preg_match('/(snaptec)/',url('/')))
     <div class="buy-now-wrap">
         <ul class="buy-list">
             <li><a target="_blank" href="https://docs.snaptec.ltd/docs/snaptec/" data-container="body" data-toggle="popover" data-placement="left" data-content="{{__('Documentation')}}"><i class="far fa-file-alt"></i></a></li>
@@ -38,7 +38,7 @@
             <li><a target="_blank" href="https://snaptec.ltd/"><i class="fas fa-headset"></i></a></li>
         </ul>
     </div>
-@endif
+@endif --}}
 
 <!-- load all script -->
 <script src="{{asset('assets/frontend/js/bootstrap.bundle.min.js')}}"></script>
